@@ -1,5 +1,7 @@
 # Hello!
 
+Welcome to my GitHub page!
+
 ## About me
 
 - I'm Ronnessa
@@ -10,4 +12,9 @@
 
 ## Skills
 
-HTML / CSS / SASS / JavaScript
+- HTML
+- CSS
+- SASS
+- JavaScript
+
+Currently learning React

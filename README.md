@@ -1,6 +1,6 @@
 # Hello!
 
-Welcome to my GitHub page!
+Welcome on my GitHub page!
 
 ## About me
 
@@ -10,11 +10,12 @@ Welcome to my GitHub page!
 - I am ready for new challenges
 - If you want to talk I speak Polish and English
 
-## Skills
+## Tools and technologies
 
 - HTML
 - CSS
 - SASS
 - JavaScript
+- Bootstrap
 
-Currently learning React
+Currently learning: React

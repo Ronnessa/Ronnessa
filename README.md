@@ -18,4 +18,4 @@ Welcome on my GitHub page!
 - JavaScript
 - Bootstrap
 
-Currently learning: React
+Currently learning: React, TypeScript

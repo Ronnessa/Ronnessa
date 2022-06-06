@@ -4,7 +4,7 @@ Welcome on my GitHub page!
 
 ## About me
 
-- I'm Ronnessa
+- I'm Żaneta
 - In November 2021 I started my journey into the frontend development world
 - I love to learn and my knowlege is growing every day
 - I am ready for new challenges
